@@ -51,7 +51,7 @@ function gotResult(error, results){
     if(error){
       console.log(error);
     }
-    console.lod(results);
+    console.log(results);
     objects = results;
 }
 
